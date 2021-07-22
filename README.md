@@ -33,12 +33,14 @@ The `zed_interfaces` is a catkin package. It depends on the following ROS packag
 
 Open a terminal, clone the repository, update the dependencies and build the packages:
 
-$ cd ~/catkin_ws/src
-$ git clone https://github.com/stereolabs/zed-ros-interfaces.git
-$ cd ../
-$ rosdep install --from-paths src --ignore-src -r -y
-$ catkin_make -DCMAKE_BUILD_TYPE=Release
-$ source ./devel/setup.bash
+```
+  $ cd ~/catkin_ws/src
+  $ git clone https://github.com/stereolabs/zed-ros-interfaces.git
+  $ cd ../
+  $ rosdep install --from-paths src --ignore-src -r -y
+  $ catkin_make -DCMAKE_BUILD_TYPE=Release
+  $ source ./devel/setup.bash
+```
 
 ## Custom Topics
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>zed_interfaces</name>
-  <version>3.1.0</version>
+  <version>3.5.0</version>
   <description>zed_interfaces is a packages that defines custom messages, services and actions used by the
                zed-ros-wrapper package and other packages.</description>
 

@@ -2,7 +2,7 @@
 string map_filename 
 
 # File format [0: PLY, 1: PLY_BIN, 2: OBJ]
-int file_format
+uint8 file_format
 ---
 bool result
 string info

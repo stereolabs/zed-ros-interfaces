@@ -1,6 +1,10 @@
 LATEST CHANGES
 ==============
 
+2021-07-27
+----------
+- Added new service `save_3d_map` to save the current 3D fused point cloud as OBJ or PLY file
+
 2021-07-22
 ----------
 - Created the new repository `zed-ros-interfaces` which contains the ROS package `zed_interfaces` defining the custom topics, services and actions used by the `zed-ros-wrapper`.

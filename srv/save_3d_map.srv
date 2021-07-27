@@ -1,0 +1,8 @@
+# Full path is required no relative paths
+string map_filename 
+
+# File format [0: PLY, 1: PLY_BIN, 2: OBJ]
+uint8 file_format
+---
+bool result
+string info

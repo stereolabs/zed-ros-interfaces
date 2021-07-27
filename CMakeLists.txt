@@ -45,6 +45,7 @@ add_service_files(
     toggle_led.srv
     start_3d_mapping.srv
     stop_3d_mapping.srv
+    save_3d_map.srv
     start_object_detection.srv
     stop_object_detection.srv
   )

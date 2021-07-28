@@ -48,6 +48,7 @@ add_service_files(
     save_3d_map.srv
     start_object_detection.srv
     stop_object_detection.srv
+    save_area_memory.srv
   )
 
 generate_messages(

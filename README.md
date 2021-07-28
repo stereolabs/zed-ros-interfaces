@@ -64,6 +64,8 @@ You can get more information reading the [Stereolabs online documentation](https
  - reset_tracking
  - set_led_status
  - set_pose
+ - save_3d_map
+ - save_area_memory
  - start_3d_mapping
  - start_object_detection
  - start_remote_stream

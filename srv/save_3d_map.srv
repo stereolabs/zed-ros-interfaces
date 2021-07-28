@@ -1,4 +1,4 @@
-# Full path is required no relative paths
+# Filename (with path and externsion) of the map file
 string map_filename 
 
 # File format [0: PLY, 1: PLY_BIN, 2: OBJ]

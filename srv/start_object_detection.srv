@@ -34,5 +34,8 @@ bool mc_electronics
 # Detect fruits and vegetables
 bool mc_fruit_vegetable
 
+# Detect sport objects
+bool mc_sport
+
 ---
 bool done

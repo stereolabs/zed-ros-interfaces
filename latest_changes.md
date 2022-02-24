@@ -1,5 +1,9 @@
 LATEST CHANGES
 ==============
+Release v1.1
+------------
+- add sport class to OD service
+- Compatible with ZED ROS Wrapper v3.7.x
 
 Release v1.0
 ------------

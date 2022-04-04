@@ -1,5 +1,9 @@
 LATEST CHANGES
 ==============
+Release v1.2
+------------
+- add custom PlaneStamped topic to publish extracted plane on click
+
 Release v1.1
 ------------
 - add sport class to OD service

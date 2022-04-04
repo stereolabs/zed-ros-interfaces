@@ -55,6 +55,7 @@ Open a terminal, clone the repository, update the dependencies and build the pac
  - RGBDSensors
  - Skeleton2D
  - Skeleton3D
+ - PlaneStamped
 
 You can get more information reading the [Stereolabs online documentation](https://www.stereolabs.com/docs/ros/zed-node/)
 

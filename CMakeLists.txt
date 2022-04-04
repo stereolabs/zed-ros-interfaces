@@ -11,6 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
   #actionlib_msgs
   message_generation
+  shape_msgs
 )
 
 add_message_files( 
@@ -27,6 +28,7 @@ add_message_files(
     Skeleton2D.msg
     Skeleton3D.msg
     RGBDSensors.msg
+    PlaneStamped.msg
   )
 
 #add_action_files(DIRECTORY action FILES act.action)
@@ -57,6 +59,7 @@ generate_messages(
     std_msgs
     geometry_msgs
     sensor_msgs
+    shape_msgs
 )
 
 catkin_package(

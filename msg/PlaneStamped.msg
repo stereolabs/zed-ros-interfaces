@@ -14,7 +14,7 @@ geometry_msgs/Point32 normal
 geometry_msgs/Point32 center
 
 # Plane pose relative to the global reference frame
-geometry_msgs/Transform Transform
+geometry_msgs/Transform pose
 
 # Width and height of the bounding rectangle around the plane contours
 float32[2] extents

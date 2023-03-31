@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 3.5)
 
 project(zed_interfaces)
 
+## Generate symbols for IDE indexer
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 #Fix for QtCretor
 #list(APPEND CMAKE_PREFIX_PATH "/opt/ros/$ENV{ROS_DISTRO}/")
 

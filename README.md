@@ -15,11 +15,6 @@ You must instead install this package on a remote system that must retrieve the 
 - Ubuntu 20.04
 - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
-or
-
-- Ubuntu 18.04
-- [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
-
 ### Build the repository
 
 The `zed_interfaces` is a catkin package. It depends on the following ROS packages:

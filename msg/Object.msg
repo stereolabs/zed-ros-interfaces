@@ -4,6 +4,9 @@ string label
 # Object label ID
 int16 label_id
 
+# Object instance ID
+int16 instance_id
+
 # Object sub
 string sublabel
 

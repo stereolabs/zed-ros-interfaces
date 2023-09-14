@@ -32,6 +32,7 @@ add_message_files(
     Skeleton3D.msg
     RGBDSensors.msg
     PlaneStamped.msg
+    PosTrackStatus.msg
   )
 
 #add_action_files(DIRECTORY action FILES act.action)

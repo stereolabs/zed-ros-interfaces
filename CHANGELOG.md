@@ -1,5 +1,12 @@
 LATEST CHANGES
 ==============
+
+2023-09-14
+----------
+- add custom 'PosTrackStaus' message type
+- add custom 'set_roi' service
+- add custom 'reset-roi' service
+
 Release v1.2
 ------------
 - add custom PlaneStamped topic to publish extracted plane on click

@@ -1,6 +1,7 @@
-![](./images/Picto+STEREOLABS_Black.jpg)
-
-# Stereolabs ZED Camera - ROS Interfaces
+<h1 align="center">
+   <img src="./images/Picto+STEREOLABS_Black.jpg" alt="Stereolabs" title="Stereolabs" /><br \>
+   ROS Interfaces
+</h1>
 
 The `zed-ros-interfaces` repository install the `zed_interfaces` ROS package which defines the custom topics, services and actions used by the [ZED ROS Wrapper](https://github.com/stereolabs/zed-ros-wrapper) to interface with ROS.
 

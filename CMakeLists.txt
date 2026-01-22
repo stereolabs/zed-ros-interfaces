@@ -82,7 +82,7 @@ catkin_package(
 
 #Add all files in subdirectories of the project in
 # a dummy_target so qtcreator have access to all files
-FILE(GLOB_RECURSE all_files ${CMAKE_SOURCE_DIR}/*)
+FILE(GLOB_RECURSE all_files ${CMAKE_CURRENT_SOURCE_DIR}/*)
 add_custom_target(all_files_${PROJECT_NAME} SOURCES ${all_files})
 
 
